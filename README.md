@@ -1,2 +1,1 @@
-# IMPLEMENTATION-OF-ALU-USING-REVERSIBLE-LOGIC-GATES
-IMPLEMENTATION OF ALU USING REVERSIBLE LOGIC GATES
+My project focuses on designing a 32-bit Arithmetic Logic Unit (ALU) using reversible logic gates to address the challenges of energy efficiency and data integrity in power-constrained environments, such as satellites. By using gates like Fredkin and Peres, I implemented the design in Verilog and demonstrated through simulations that reversible gates consume less power and generate less heat compared to traditional irreversible gates. This work highlights the potential of reversible computing for sustainable and efficient applications in modern VLSI and emerging technologies like quantum computing.
